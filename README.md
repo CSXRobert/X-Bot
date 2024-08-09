@@ -1,6 +1,3 @@
-# X-Bot
-This is a bot X that posts links and phrases every 35 minutes. In this case, I used Amazon Associates links, which pay commissions for each purchase made using those links. There are other affiliate programs like Lego. You can also adapt the bot for your advertising campaigns.
-
 The bot selects an Amazon Affiliate link from a txt file, chosen randomly, containing an Amazon product and concatenates it with a motivational phrase, which you can request from any artificial intelligence, to post a tweet every 35 minutes.
 This bot is designed to avoid spending a cent, promoting products for free, and getting paid for it.
 AMAZON PAYS YOU A COMMISSION IF THE PRODUCT IS PURCHASED USING YOUR LINK. SEARCH FOR AMAZON AFFILIATE VIDEOS.
