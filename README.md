@@ -9,29 +9,29 @@ This bot is free, but if you want to support me as the creator, you can donate:
 
 BTC:
 
-1LVocwYpWnd59Juyfhyum7JiVRXAmqAaWb
+	1LVocwYpWnd59Juyfhyum7JiVRXAmqAaWb
 
 ETH (BSC):
 
-0x44d27c323a0b0a7ec9d2cf2ccfa173f15ce27ef5
+	0x44d27c323a0b0a7ec9d2cf2ccfa173f15ce27ef5
 
 BNB (BSC):
 
-0x44d27c323a0b0a7ec9d2cf2ccfa173f15ce27ef5
+	0x44d27c323a0b0a7ec9d2cf2ccfa173f15ce27ef5
 
 XRP:
 
-rNxp4h8apvRis6mJf9Sh8C6iRxfrDWN7AV
+	rNxp4h8apvRis6mJf9Sh8C6iRxfrDWN7AV
 
-Memo: 401375175
+	Memo: 401375175
 
 USDT (TRX):
 
-TFjbSrQVmAqaeuGzUsPHVTM2nDD1LweY5k
+	TFjbSrQVmAqaeuGzUsPHVTM2nDD1LweY5k
 
 RVN:
 
-RFLbQboprMwgeuXGTPy3h6gW72Lvfgkgrs
+	RFLbQboprMwgeuXGTPy3h6gW72Lvfgkgrs
 
 Installation Instructions
 
@@ -43,13 +43,11 @@ to create a virtual environment (optional) and install tweepy.
 
 RUN THIS COMMAND IN THE TERMINAL:
 
-sh
-pip install tweepy
+	pip install tweepy
 
 If prompted to update pip (install pip-24.1.2):
 
-sh
-python.exe -m pip install --upgrade pip
+	python.exe -m pip install --upgrade pip
 
 3- Prepare Files
 
@@ -96,17 +94,17 @@ File Structure, copy and paste as many as you want.
 
 tweets.txt:
 
-https://www.amazon.com/product1
-https://www.amazon.com/product2
-https://www.amazon.com/product3
+	https://www.amazon.com/product1
+	https://www.amazon.com/product2
+	https://www.amazon.com/product3
 
 
 phrases.txt:
 
-Don’t miss out on this amazing product!
-This product can change your life. Try it now!
-Take advantage of this unique opportunity with this product!
-Discover the wonders of this product today!
+	Don’t miss out on this amazing product!
+	This product can change your life. Try it now!
+	Take advantage of this unique opportunity with this product!
+	Discover the wonders of this product today!
 
 
 With this approach, the bot will ensure that all phrases and links are posted randomly and without repetition, until all options have been used, at which point the process will restart.
@@ -118,7 +116,6 @@ It is included in the `x-bot.py` file.
 
 7- In the terminal, run the following command:
 
-sh
-Copy code
-python x-bot.py  
+	python x-bot.py  
+
 ENJOY YOUR CODE!!!!
